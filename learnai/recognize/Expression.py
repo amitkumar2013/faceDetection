@@ -1,8 +1,3 @@
-'''
-Created on Dec 29, 2018
-
-@author: Amit.30.Kumar
-'''
 from shutil import copyfile
 import cv2, glob, random, numpy as np
 import matplotlib.pyplot as plt
