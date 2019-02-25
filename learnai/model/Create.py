@@ -1,8 +1,3 @@
-'''
-Created on Dec 24, 2018
-
-@author: Amit.30.Kumar
-'''
 import os, numpy, cv2
 
 class Create(object):
