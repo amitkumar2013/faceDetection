@@ -1,9 +1,3 @@
-'''
-Created on Dec 24, 2018
-
-@author: Amit.30.Kumar
-
-'''
 import cv2
 
 class Face(object):
