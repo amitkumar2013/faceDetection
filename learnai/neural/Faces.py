@@ -1,8 +1,3 @@
-'''
-Created on Dec 29, 2018
-
-@author: Amit.30.Kumar
-'''
 import cv2, time, glob
 
 class Faces(object):
